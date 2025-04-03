@@ -1,22 +1,17 @@
-## crisis_stocks
+## Neta & Daniel project
 Welcome to Neta and Daniel's project!
 
-Here we will analyze financial data about stock market during times of crisis
+Here we will analyze intersting facts about our life and behavior!
 
-Enjoy :)
+Enjoy the content :)
 
 # Tasks:
 
+# Datasets codes links:
 
+https://www.kaggle.com/code/muhammedaliyilmazz/ai-analysis-of-gaming-impact-on-academics
 
 # Questions & Thoughts:
-- מניות חזקות וחלשות בזמן משברים
-- חיזוי
-- התנהגות מוכרים וקונים
-- התנהגות משקיעים
-- חזרה לשווי המניה ויותר בטווח הארוך
-- שווקים שצמחו בעקבות משברים והאם הם גם המשיכו לצמוח לאורך זמן
-- התנהגות פסיכולוגית / עסקית, איך התנהגות פסיכולוגית מובילה למכירה / קניה בזמן משבר
 
 
 
