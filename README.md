@@ -9,7 +9,8 @@ Enjoy the content :)
 
 # Datasets code links:
 
-https://www.kaggle.com/code/muhammedaliyilmazz/ai-analysis-of-gaming-impact-on-academics
+- How games effect students - https://www.kaggle.com/code/muhammedaliyilmazz/ai-analysis-of-gaming-impact-on-academics
+- Anxiety and Depression - https://www.kaggle.com/code/sonawanelalitsunil/anxiety-depression-insights-ml-100/notebook
 
 # Questions & Thoughts:
 
