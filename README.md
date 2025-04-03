@@ -7,7 +7,7 @@ Enjoy the content :)
 
 # Tasks:
 
-# Datasets codes links:
+# Datasets code links:
 
 https://www.kaggle.com/code/muhammedaliyilmazz/ai-analysis-of-gaming-impact-on-academics
 
