@@ -11,6 +11,7 @@ Enjoy the content :)
 
 - How games effect students - https://www.kaggle.com/code/muhammedaliyilmazz/ai-analysis-of-gaming-impact-on-academics
 - Anxiety and Depression - https://www.kaggle.com/code/sonawanelalitsunil/anxiety-depression-insights-ml-100/notebook
+- Startup Failures - https://www.kaggle.com/code/nikolasgegenava/startup-failures-100-accuracy
 
 # Questions & Thoughts:
 
