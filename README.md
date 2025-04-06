@@ -7,6 +7,7 @@ Our goal is to find clear patterns that separate fake news from real news by loo
 Enjoy the content :)
 
 # Tasks:
+- לאסוף כמה שיותר תובנות ושאלות
 
 # Datasets code links:
 - Fake News (Kaggle) - https://www.kaggle.com/datasets/khushikyad001/fake-news-detection/data
