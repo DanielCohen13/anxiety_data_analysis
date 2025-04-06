@@ -8,6 +8,7 @@ Enjoy the content :)
 
 # Tasks:
 - לאסוף כמה שיותר תובנות ושאלות
+- לסיים לעדכן את קובץ project template ולהגיש
 
 # Datasets code links:
 - Fake News (Kaggle) - https://www.kaggle.com/datasets/khushikyad001/fake-news-detection/data
