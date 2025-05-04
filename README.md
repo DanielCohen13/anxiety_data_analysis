@@ -1,7 +1,7 @@
-## Neta, Daniel and Maoz's project 
+## Neta, Daniel, and Maoz's project 
 ## "Behind the Headlines: Exploring Fake News"
 
-Welcome to Neta,Daniel and Maoz's project!
+Welcome to Neta, Daniel, and Maoz's project!
 
 In this project, we analyze a dataset of news articles labeled as real or fake, from different media sources.
 Our goal is to find clear patterns that separate fake news from real news by looking at features like clickbait level, trust score, political bias, and more
