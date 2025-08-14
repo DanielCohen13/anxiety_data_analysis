@@ -31,7 +31,7 @@ NumPy – numerical computations
 
 ## 📊 Key Features & Analysis Steps
 
-Data Cleaning:
+### Data Cleaning:
 
 Removed null values.
 
@@ -45,13 +45,13 @@ Correlation heatmaps to find relationships between variables.
 
 Gender-based and age-based anxiety level comparisons.
 
-Visualization:
+### Visualization:
 
 Bar charts, histograms, and pie charts to highlight patterns.
 
 Color-coded plots to emphasize findings.
 
-Insights:
+### Insights:
 
 Identified potential links between lifestyle habits, social factors, and anxiety levels.
 
